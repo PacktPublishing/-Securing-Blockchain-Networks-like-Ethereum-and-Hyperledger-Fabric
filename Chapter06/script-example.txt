@@ -1,0 +1,5 @@
+# Bitcoin script snippet
+
+
+
+3 7 OP_ADD 10 OP_EQUAL 
